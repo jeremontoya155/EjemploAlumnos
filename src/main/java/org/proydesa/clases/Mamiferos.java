@@ -58,7 +58,7 @@ public class Mamiferos extends Animales{
             
         } else {
             
-            System.out.println("No puede nadar");
+            System.out.println("Este animal es incapaz de nadar");
         
         }
         
